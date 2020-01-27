@@ -11,7 +11,7 @@ ExitProcess PROTO,
 dwExitCode: DWORD
 
 .DATA
-x DWORD 80
+x DWORD 1
 y DWORD 7FFFFFFFh
 
 acumm DWORD 0
